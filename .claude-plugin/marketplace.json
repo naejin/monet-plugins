@@ -1,0 +1,23 @@
+{
+  "name": "monet-plugins",
+  "owner": {
+    "name": "Daylon"
+  },
+  "plugins": [
+    {
+      "name": "taoki",
+      "source": {
+        "source": "github",
+        "repo": "naejin/taoki"
+      },
+      "description": "Code indexing and structural mapping for Claude Code",
+      "category": "development",
+      "tags": [
+        "code-index",
+        "code-map",
+        "tree-sitter",
+        "mcp"
+      ]
+    }
+  ]
+}

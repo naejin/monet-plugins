@@ -18,6 +18,22 @@
         "tree-sitter",
         "mcp"
       ]
+    },
+    {
+      "name": "ecko",
+      "source": {
+        "source": "github",
+        "repo": "naejin/ecko"
+      },
+      "description": "Deterministic code quality checks for AI agents — echoes back mistakes at write-time",
+      "category": "development",
+      "tags": [
+        "linting",
+        "code-quality",
+        "hooks",
+        "python",
+        "typescript"
+      ]
     }
   ]
 }
